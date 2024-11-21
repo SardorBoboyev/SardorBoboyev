@@ -5,13 +5,11 @@
 - 📫 How to reach me shawn01012000@icloud.com or boboyevsardor350@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy solving puzzles and learning new programming languages.
-
 <p align="center">
 <!--   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" /> -->
   </p>
 <h1 align="center">About me</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
-
 <br>
 <br>
 <p align="center">
@@ -22,7 +20,7 @@
 <br>
 <br>
 
-## 📊 My Github Stats
+## 📊 My Github Status
 
   <br/>
 <a href="https://github.com/SardorBoboyev/github-readme-stats"><img alt="Sardor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SardorBoboyev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
+![MasterHead](https://www.google.com/search?sca_esv=0dfc19cba18b6ced&hl=uz&cs=1&sxsrf=ADLYWII4kBgQfTyGaHyo9O74LidNsi2ocg:1732178217867&q=machine+learning+profile+readme+github+profile+animated+coder+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d6k8nnEQqPmmELwzwnPU3RmS4lLCkbqx_P3isftnOMx9j1yuTggOrBTfNg70sHh-4FvHZRQZzCsvhns9-4xwINjdQ7SMzBcPto_8SLSp8i1yj0QMNZkymkL6osdA10vkY-7TQa7u624OvQOQ7Bg8D2tl0Xu50A7TLp-YFU8ZKmD4UfpO9gLZ3zcykebJ4YU9oacX_d-rarGjcfesSoNDBqkdGUqv42U9zVXBklvDLa8s_nfJeCtDhzfRSxFA4R9YrBd35ig&udm=2&sa=X&ved=2ahUKEwjThvTagu2JAxWaFFkFHde1N_wQxKsJegQIDhAB&ictx=0&biw=1536&bih=826&dpr=1.25#vhid=jhcsVqEFSxZJUM&vssid=mosaic)
 <h1 align="center">Hi 👋, I'm Sardor Boboyev</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw3wZDzO62n7G4518nENiIeb&ust=1732264665564000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi27_OC7YkDFQAAAAAdAAAAABAh">
 
 - 🔭 I’m currently working on [Chat Application in Microservice](https://github.com/SardorBoboyev?tab=repositories)
 

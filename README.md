@@ -1,5 +1,5 @@
 ![MasterHead](<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer" width="400" />
+    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer" width="600" />
 </p>
 )
 <h1 align="center">Hi 👋, I'm Sardor Boboyev</h1>

@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SardorBoboyev](https://github.com/SardorBoboyev)
 
-- 📝 I regularly write articles on [t.me/shawn_java](t.me/shawn_java)
+- 📝 I regularly write articles on [t.me/shawn_java](https://t.me/shawn_java)
 
 - 💬 Ask me about **Java Core, Jakarta EE, Spring Boot**
   
@@ -19,7 +19,7 @@
   
 - 📞 My phone number: +998 99 062 06 04
   
-- 🛜 Telegram account  [t.me/shawn_mind](t.me/shawn_mind)
+- 🛜 Telegram account  [t.me/shawn_mind](https://t.me/shawn_mind)
   
 - ⚡ Fun fact **I enjoy solving puzzles and learning new programming languages**
 

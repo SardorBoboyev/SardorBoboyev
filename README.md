@@ -17,7 +17,7 @@
   
 - 📫 How to reach me shawn01012000@icloud.com 
   
-- 📞 My phone number: +998 99 062 06 04
+- 📞 My phone number +998 99 062 06 04
   
 - 🛜 Telegram account  [t.me/shawn_mind](https://t.me/shawn_mind)
   

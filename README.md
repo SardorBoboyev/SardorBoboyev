@@ -14,10 +14,13 @@
 - 📝 I regularly write articles on [t.me/shawn_java](t.me/shawn_java)
 
 - 💬 Ask me about **Java Core, Jakarta EE, Spring Boot**
-
+  
 - 📫 How to reach me **shawn01012000@icloud.com or sardorboboyev350@gmail.com**
+  
 - 📞 My phone number ** +998 99 062 06 04**
-- 🛜 Telegram account  [t.me/shawn_java](t.me/shawn_mind)
+  
+- 🛜 Telegram account  [t.me/shawn_mind](t.me/shawn_mind)
+  
 - ⚡ Fun fact **I enjoy solving puzzles and learning new programming languages**
 
 <h3 align="left">Connect with me:</h3>

@@ -18,7 +18,7 @@
   
 - 📞 My phone number +998 99 062 06 04
   
-- 🛜 Telegram account  [t.me/shawn_mind](https://t.me/sardor_java)
+- 🛜 Telegram account  [t.me/sardor_java](https://t.me/sardor_java)
   
 - ⚡ Fun fact **I enjoy solving puzzles and learning new programming languages**
 
